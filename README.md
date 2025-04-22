@@ -16,7 +16,7 @@ Desenvolver as funcionalidades conforme requisitos
 - [RF002] Locação de livros.
     - [RF002.1] Sistema deve ter um formulário de locação.
     - [RF002.2] Dados do formulário: Nome do livro, nome do locatário, CPF, data de locação e devolução
-    - [RF002.3] Deve valudar se o CPF tem 1 digítos (sem pontuações).
+    - [RF002.3] Deve validar se o CPF tem 11 digítos (sem pontuações).
 - [RF003] Todos os dados dos livros e cadastros de locação devem ser armazenados em LocalStorage.
 
 ### Casos de teste do Front-End
