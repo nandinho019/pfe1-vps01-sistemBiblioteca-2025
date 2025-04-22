@@ -10,6 +10,18 @@ Essa aplicação será utilizada no balcão de atendimento da biblioteca, por is
 ## Desafio
 Desenvolver as funcionalidades conforme requisitos
 
+## Configurações
+- Fonte: Roboto (google fonts)
+- Paletta de cores Roxo do escuro ao claro
+
+- [ ] cor1: #5E4B8A
+- [ ] cor2: #A77BCA
+- [ ] cor3: #E4C1F9
+- [ ] cor4: #F2E6FF
+- [ ] cor5: #F9F5FF
+- [ ] transp1: rgba(0, 0, 0, 0.8)
+- [ ] transp2: rgba(255, 255, 255, 0.8)
+
 ### Requisitos funcionais
 - [RF001] O sistema deve apresentar o portifólio de livros disponíveis na biblioteca.
     - [RF001.1] Deve possuir um botão "Ver Detalhes" para apresentar os livros (Modal).
@@ -126,10 +138,10 @@ Desenvolver as funcionalidades conforme requisitos
 ### Catalogo de livros
 
 1. Lista de livros:
-![Lista](https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025/blob/main/lista.png)
+![Lista](./assets/lista.png)
 
 2. Modal:
-![Modal](https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025/blob/main/modal.png)
+![Modal](./assets/modal.png)
 
 3. Cadastro:
-![Cadastro](https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025/blob/main/cadastro.png)
+![Cadastro](./assets/cadastro.png)
