@@ -24,6 +24,9 @@ Desenvolver as funcionalidades conforme requisitos
  - [CT002] Validar se os dados estão corretos no botão "Ver Detalhes".
  - [CT003] Validação se os dados estão sendo gravados em LocalStorage.
 
+ 
+ ## Entrega:
+ A prova deve ser entregue pelo gitpages (OBRIGATÓRIO)
  ```json
  [
   {
