@@ -126,10 +126,10 @@ Desenvolver as funcionalidades conforme requisitos
 ### Catalogo de livros
 
 1. Lista de livros:
-![Lista](.\lista.png)
+![Lista](https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025/blob/main/lista.png)
 
 2. Modal:
-![Modal](.\modal.png)
+![Modal](https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025/blob/main/modal.png)
 
 3. Cadastro:
-![Cadastro](.\cadastro.png)
+![Cadastro](https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025/blob/main/cadastro.png)
